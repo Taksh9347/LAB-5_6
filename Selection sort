@@ -1,5 +1,4 @@
-// Selection sort of an array
-// Arranging numbers in increasing order
+
 #include <stdio.h>
 int main()
 {
