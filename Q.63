@@ -1,4 +1,4 @@
-#include<stdio.h>
+Q.63#include<stdio.h>
 int main()
 {
 	int i,j,a[3][3],b[3][3],max,min;
